@@ -1,4 +1,4 @@
-s3: |
+s3 bucket: |
 
 
   * **access-key-id**: AWS Access Key ID. Can be obtained from [here](https://console.aws.amazon.com/iam/home?#security_credential).
